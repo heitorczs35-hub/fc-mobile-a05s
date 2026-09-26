@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FC Mobile no Galaxy A05s</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #eee;
+  max-width: 800px;
+  margin: auto;
+  padding: 25px;
+  line-height: 1.6;
+}
+.caixa {
+  background: #1e1e1e;
+  padding: 20px;
+  margin: 18px 0;
+  border-radius: 15px;
+}
+h1 { font-size: 32px; }
+h2 { color: #8ab4ff; }
+.aviso {
+  background: #2a2517;
+  padding: 15px;
+  border-radius: 12px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>⚽ FC Mobile no Galaxy A05s</h1>
+
+<p>
+Um relato de teste de compatibilidade feito em um Samsung Galaxy A05s.
+</p>
+
+<div class="caixa">
+<h2>📱 Aparelho testado</h2>
+<ul>
+<li>Samsung Galaxy A05s (SM-A057M/DS)</li>
+<li>Android 15</li>
+<li>One UI 7.0</li>
+</ul>
+</div>
+
+<div class="caixa">
+<h2>⚠️ O problema</h2>
+<p>
+Depois de uma atualização do FC Mobile, o jogo passou a apresentar
+incompatibilidade no aparelho durante a tentativa de acesso.
+</p>
+</div>
+
+<div class="caixa">
+<h2>✅ O resultado</h2>
+<p>
+Depois de testar uma alternativa de instalação, o FC Mobile voltou a abrir
+no Galaxy A05s. O jogo chegou à tela principal e pôde ser utilizado no aparelho.
+</p>
+
+<p>
+<strong>Importante:</strong> este é um relato de um teste individual.
+Não há garantia de que o mesmo procedimento funcione em outros aparelhos.
+</p>
+</div>
+
+<div class="aviso">
+<strong>🔐 Segurança:</strong> nunca compartilhe sua senha, códigos de
+verificação ou dados da conta. Sempre que possível, prefira instalações
+e atualizações pelas fontes oficiais.
+</div>
+
+<div class="caixa">
+<h2>ℹ️ Sobre esta página</h2>
+<p>
+Esta página não é oficial da EA. Ela foi criada para registrar uma experiência
+de compatibilidade com o Galaxy A05s e ajudar outras pessoas a entender o que
+foi testado.
+</p>
+</div>
+
+</body>
+</html>
